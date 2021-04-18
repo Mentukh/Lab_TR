@@ -15,7 +15,7 @@
 
 ![cartoon][graph_1]
 
-[graph_1]:""
+[graph_1]:https://github.com/Mentukh/Lab_TR/blob/main/graph1.jpg "A"
 
    2.   Чи є у побудованому графі ізольовані вершини або незв’язні компоненти?
        
@@ -45,7 +45,7 @@
 
 ![cartoon][graph_2]
 
-[graph_2]:""
+[graph_2]:https://github.com/Mentukh/Lab_TR/blob/main/graph2.jpg "B"
 
 ## 2. За допомогою лабораторного макету побудувати випадковий неорієнтований граф `G={7,15}` та записати його матрицю суміжності.
 
@@ -59,13 +59,13 @@
 
 ![cartoon][graph_3]
 
-[graph_3]:""
+[graph_3]: https://github.com/Mentukh/Lab_TR/blob/main/graph3.jpg "C"
 
   1. Як зміниться топологія графа (структурні зв’язки), якщо циклічно зсунуту вправо 2 стовпці у матриці суміжностей?
 
 ![cartoon][graph_4]
 
-[graph_4]:""
+[graph_4]: https://github.com/Mentukh/Lab_TR/blob/main/graph4.jpg "D"
   2. Як зміниться топологія графа (структурні зв’язки), а) Якщо всі елементи над діагоналлю перетворити в 1?
 
     -Появляться орієнтовані ребра.
@@ -84,7 +84,7 @@
 
 ![cartoon][graph_5]
 
-[graph_5]:""
+[graph_5]:https://github.com/Mentukh/Lab_TR/blob/main/graph5.jpg "E"
 
   1. Як з матриці відповідностей можна визначити ступінь кожної вершини?
 
@@ -92,9 +92,9 @@
 
 ## 4. Задано граф `G` та `M`.
 ### Граф G  
-![cartoon][grapthG]
+![cartoon][graph G]
 
-[grapthG]:""
+[graph G]:https://github.com/Mentukh/Lab_TR/blob/main/graph6.jpg "G"
 
 0, 0, 0, 0, 0, 0, 1, 
 	  0, 0, 1, 0, 0, 1, 1, 
@@ -117,9 +117,9 @@
 ### Граф M
 
     	1.
-![alt text][grapthM]
+![alt text][graph M]
 
-   [grapthM]: "GraphM"
+   [graph M]: https://github.com/Mentukh/Lab_TR/blob/main/graph7.jpg "M"
 
 	0, 1, 0, 0, 1, 0, 
 
